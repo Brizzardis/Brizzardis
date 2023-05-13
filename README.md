@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
 
-👋 Hi, my name is Ilya.
+### 👋 Hi, my name is Ilya.
 
 I am currently working as a Business Analyst at Gold Apple (beauty retailer №1 in Russia), focus on optimizing checkout area and developing solutions for all kinds of gift cards. Preparing to become a Data Scientist. Open to work.
 

@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,20,24&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
 
-### 👋 Hi, my name is Ilya.
+👋 Hi, my name is Ilya.
 
-I am currently working as a Business Analyst at Gold Apple (beauty retailer №1 in Russia), focus on optimizing checkout area and developing solutions for all kinds of gift cards. Preparing to become a Data Scientist. Open to work.
+I am currently working as a Business Analyst at Gold Apple (beauty retailer №1 in Russia), focus on optimizing checkout area and developing solutions for the gift cards product. Preparing to become a Data Scientist. Open to work.
 
 #
 ### 🛠️ Languages and Tools
@@ -26,3 +26,7 @@ I am currently working as a Business Analyst at Gold Apple (beauty retailer №1
 [![Linkedin Badge](https://img.shields.io/badge/-ilyabrilenkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyabrilenkov/)](https://www.linkedin.com/in/ilyabrilenkov/)
 [![Gmail Badge](https://img.shields.io/badge/-ilyabrilenkov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ilyabrilenkov@gmail.com)](mailto:ilyabrilenkov@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-t.me/brilenkov_i-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/brilenkov_i/)](https://t.me/brilenkov_i/)
+
+#
+### 📜 Certifications 
+- [name](link) @ Coursera

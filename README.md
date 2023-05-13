@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... timeGradient 24
 - ⚡ Fun fact: ... 1,2,3,4,6,10,11,14,15,19,20,24
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=28&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)

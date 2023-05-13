@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... timeGradient 24
-- ⚡ Fun fact: ... 1,4,6,15,19,20,24
+- ⚡ Fun fact: ... 1,4,6,19,20,24
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=15&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=19&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)

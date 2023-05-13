@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=#000000&section=header&animation=fadeIn)
 
 ### 👋 Hi, my name is Ilya.
 

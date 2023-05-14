@@ -8,12 +8,12 @@ I am currently working as a Business Analyst at Gold Apple (beauty retailer №1
 ### 🛠️ Languages and Tools
 
  
-| Language / Tool       | How I use it    | Core libraries|
-| --------------------- | --------------- |------------|
+| Language / Tool       | How I use it                | Core libraries      |
+| --------------------- | --------------------------- |---------------------|
 |<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Camunda.jpg" height="60" width="120">|Process Analysis <br/> Process Design||
 |<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Miro.jpg" height="60" width="120">|Process Design <br/> Presentation to show process flow or user flow||
 |<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/f5530fc1c9f14de8ffa1a97e6078c9dc63f1dd6a/assets/ClickHouse.png" height="60" width="120">|Retrieving data using SQL query||
-|<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Python.png" height="60" width="120">|Exploratory data analysis <br /> Hypothesis testing <br /> Building optimization models <br /> Building ML models | Numpy, Pandas, Datetime, Matplotlib, Seaborn <br/> Scipy, Statsmodels <br/> OR-Tools <br/> Scikit-learn, XGBoost, CatBoost|
+|<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Python.png" height="60" width="120"> <br/> <img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/1a496f0d555be8ac30ae1414d51503ac0fb66adc/assets/Jupyter.png" height="40" width="60"><img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/1a496f0d555be8ac30ae1414d51503ac0fb66adc/assets/PyCharm.png" height="40" width="60">|Exploratory data analysis <br /> Hypothesis testing <br /> Building optimization models <br /> Building ML models | Numpy, Pandas, Datetime, Matplotlib, Seaborn <br/> Scipy, Statsmodels <br/> OR-Tools <br/> Scikit-learn, XGBoost, CatBoost|
 |<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Tableau.png" height="60" width="120"> |Presentation to show insights from data analysis||
 |<img src="https://github.com/IlyaBrilenkov/IlyaBrilenkov/blob/a77ede42702083fb3c4de55521ec15917be4be52/assets/Confluence.png" height="60" width="120">|Documentation||
 

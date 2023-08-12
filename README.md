@@ -31,5 +31,4 @@ I am currently working as a Business Analyst at Gold Apple (beauty retailer №1
 </p>
 [![Gmail Badge](https://img.shields.io/badge/-ilyabrilenkov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilyabrilenkov@gmail.com)](mailto:ilyabrilenkov@gmail.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-ilyabrilenkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyabrilenkov/)](https://www.linkedin.com/in/ilyabrilenkov/)
-[![Gmail Badge](https://img.shields.io/badge/-ilyabrilenkov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ilyabrilenkov@gmail.com)](mailto:ilyabrilenkov@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-t.me/brilenkov_i-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/brilenkov_i/)](https://t.me/brilenkov_i/)

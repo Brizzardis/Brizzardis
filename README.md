@@ -2,7 +2,8 @@
 
 ### 👋 Hi, my name is Ilya.
 
-I am currently working as a Business Analyst at Gold Apple (beauty retailer №1 in Russia), focus on optimizing checkout area processes and developing solutions for the gift cards product. 
+I am currently preparing to work in robotics as a developer. 
+Business-analyst in the past.
 
 #
 ### 🛠️ Languages and Tools

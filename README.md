@@ -2,7 +2,7 @@
 
 ### 👋 Hi, my name is Ilya.
 
-I am currently open to work as a C++ developer (junior/intern). 
+C++ developer. 
 Business-analyst in the past.
 
 #
